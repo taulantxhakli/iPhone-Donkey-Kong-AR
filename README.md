@@ -13,7 +13,7 @@ This is a little fun project I made during my time in the App Development class 
   ## Sneak-Peek
 
   <p align="center">
-    <img src="take_4.gif">
+    <img src="take_5.gif">
   </p>
   
   <p align="center">
@@ -29,7 +29,7 @@ This is a little fun project I made during my time in the App Development class 
   </p>
   
   <p align="center">
-    <img src="take_5.gif">
+    <img src="take_4.gif">
   </p>
 
   
